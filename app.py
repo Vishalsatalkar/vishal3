@@ -1,6 +1,6 @@
 def calculate_basic(a, b):
     addition = a + b
-    multiplication = a * b
+    subtraction = a - b
     return addition, multiplication
 
 # Example usage:
